@@ -1,13 +1,13 @@
 class Translation(object):
     START_TEXT = """Hello,
-This is a Telegram URL Upload Bot!
+This is a Telegram URL Upload Bot made by @prgofficial
 
-<b>Please send me any direct download URL Link, i can upload to telegram as File/Video</b>
+<b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 
 /help for more details..
 
-Support Group : @InFoTelGroup
-© @SpEcHlDe , @TGBotsZ & @CWProjects"""
+Support Group : @moviesonlydiscusiion
+© @prgofficial"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -19,8 +19,8 @@ URL | filename | username | password"""
     UPLOAD_START = "trying to upload"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @TGBotsZ"
-    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @TGBotsZ \nUploaded in {} seconds."
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "Please rate me if you find me useful. Join : @moviesonlydiscussion"
+    AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds. \nJoin : @moviesonlydiscussion \nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://telegram.dog/ThankTelegram'>@SpEcHlDe</a>"
     SAVED_CUSTOM_THUMB_NAIL = "Custom video / file thumbnail saved. This image will be used in the video / file."
@@ -34,7 +34,7 @@ URL | filename | username | password"""
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: Free Cloned User
+Plan name: Free User
 Expires on: 31/12/2020"""
     HELP_USER = """Hai am URL Uploader bot..
     
@@ -46,7 +46,7 @@ Expires on: 31/12/2020"""
    Video  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
-<b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/QkAkSLBgoYw">Diploy</a>
+<b>👉 Join For New Movies :</b> 👉 <a href="https://t.me/joinchat/AAAAAEw1pO1bBX6ylAb0hQ">JOIN</a>
 
 --------
 Send /me to know current plan details
