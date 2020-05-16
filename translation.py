@@ -6,7 +6,7 @@ This is a Telegram URL Upload Bot made by @prgofficial
 
 /help for more details..
 
-Support Group : @moviesonlydiscusiion
+Support Group : @moviesonlydiscussion
 © @prgofficial"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
