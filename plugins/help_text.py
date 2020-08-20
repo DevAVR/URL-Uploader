@@ -10,7 +10,6 @@ logger = logging.getLogger(__name__)
 
 import os
 import sqlite3
-from telegram import ParseMode, InlineKeyboardMarkup, InlineKeyboardButton
 
 # the secret configuration specific things
 if bool(os.environ.get("WEBHOOK", False)):
